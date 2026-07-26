@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "filename": "flower_01.png",
+    "row": 1,
+    "column": 1,
+    "width": 133,
+    "height": 272,
+    "source_crop": {
+      "left": 99,
+      "top": 95,
+      "right": 232,
+      "bottom": 367
+    }
+  },
+  {
+    "id": 2,
+    "filename": "flower_02.png",
+    "row": 1,
+    "column": 2,
+    "width": 132,
+    "height": 245,
+    "source_crop": {
+      "left": 266,
+      "top": 120,
+      "right": 398,
+      "bottom": 365
+    }
+  },
+  {
+    "id": 3,
+    "filename": "flower_03.png",
+    "row": 1,
+    "column": 3,
+    "width": 128,
+    "height": 280,
+    "source_crop": {
+      "left": 452,
+      "top": 88,
+      "right": 580,
+      "bottom": 368
+    }
+  },
+  {
+    "id": 4,
+    "filename": "flower_04.png",
+    "row": 1,
+    "column": 4,
+    "width": 192,
+    "height": 254,
+    "source_crop": {
+      "left": 638,
+      "top": 115,
+      "right": 830,
+      "bottom": 369
+    }
+  },
+  {
+    "id": 5,
+    "filename": "flower_05.png",
+    "row": 1,
+    "column": 5,
+    "width": 149,
+    "height": 273,
+    "source_crop": {
+      "left": 880,
+      "top": 94,
+      "right": 1029,
+      "bottom": 367
+    }
+  },
+  {
+    "id": 6,
+    "filename": "flower_06.png",
+    "row": 2,
+    "column": 1,
+    "width": 146,
+    "height": 275,
+    "source_crop": {
+      "left": 98,
+      "top": 404,
+      "right": 244,
+      "bottom": 679
+    }
+  },
+  {
+    "id": 7,
+    "filename": "flower_07.png",
+    "row": 2,
+    "column": 2,
+    "width": 146,
+    "height": 270,
+    "source_crop": {
+      "left": 285,
+      "top": 404,
+      "right": 431,
+      "bottom": 674
+    }
+  },
+  {
+    "id": 8,
+    "filename": "flower_08.png",
+    "row": 2,
+    "column": 3,
+    "width": 206,
+    "height": 266,
+    "source_crop": {
+      "left": 451,
+      "top": 409,
+      "right": 657,
+      "bottom": 675
+    }
+  },
+  {
+    "id": 9,
+    "filename": "flower_09.png",
+    "row": 2,
+    "column": 4,
+    "width": 116,
+    "height": 250,
+    "source_crop": {
+      "left": 676,
+      "top": 430,
+      "right": 792,
+      "bottom": 680
+    }
+  },
+  {
+    "id": 10,
+    "filename": "flower_10.png",
+    "row": 2,
+    "column": 5,
+    "width": 149,
+    "height": 282,
+    "source_crop": {
+      "left": 859,
+      "top": 393,
+      "right": 1008,
+      "bottom": 675
+    }
+  },
+  {
+    "id": 11,
+    "filename": "flower_11.png",
+    "row": 3,
+    "column": 1,
+    "width": 91,
+    "height": 229,
+    "source_crop": {
+      "left": 125,
+      "top": 761,
+      "right": 216,
+      "bottom": 990
+    }
+  },
+  {
+    "id": 12,
+    "filename": "flower_12.png",
+    "row": 3,
+    "column": 2,
+    "width": 168,
+    "height": 263,
+    "source_crop": {
+      "left": 265,
+      "top": 727,
+      "right": 433,
+      "bottom": 990
+    }
+  },
+  {
+    "id": 13,
+    "filename": "flower_13.png",
+    "row": 3,
+    "column": 3,
+    "width": 165,
+    "height": 255,
+    "source_crop": {
+      "left": 463,
+      "top": 735,
+      "right": 628,
+      "bottom": 990
+    }
+  },
+  {
+    "id": 14,
+    "filename": "flower_14.png",
+    "row": 3,
+    "column": 4,
+    "width": 213,
+    "height": 241,
+    "source_crop": {
+      "left": 646,
+      "top": 735,
+      "right": 859,
+      "bottom": 976
+    }
+  },
+  {
+    "id": 15,
+    "filename": "flower_15.png",
+    "row": 3,
+    "column": 5,
+    "width": 161,
+    "height": 251,
+    "source_crop": {
+      "left": 876,
+      "top": 739,
+      "right": 1037,
+      "bottom": 990
+    }
+  },
+  {
+    "id": 16,
+    "filename": "flower_16.png",
+    "row": 4,
+    "column": 1,
+    "width": 155,
+    "height": 264,
+    "source_crop": {
+      "left": 92,
+      "top": 1027,
+      "right": 247,
+      "bottom": 1291
+    }
+  },
+  {
+    "id": 17,
+    "filename": "flower_17.png",
+    "row": 4,
+    "column": 2,
+    "width": 92,
+    "height": 254,
+    "source_crop": {
+      "left": 286,
+      "top": 1048,
+      "right": 378,
+      "bottom": 1302
+    }
+  },
+  {
+    "id": 18,
+    "filename": "flower_18.png",
+    "row": 4,
+    "column": 3,
+    "width": 176,
+    "height": 258,
+    "source_crop": {
+      "left": 459,
+      "top": 1040,
+      "right": 635,
+      "bottom": 1298
+    }
+  },
+  {
+    "id": 19,
+    "filename": "flower_19.png",
+    "row": 4,
+    "column": 4,
+    "width": 163,
+    "height": 285,
+    "source_crop": {
+      "left": 665,
+      "top": 1021,
+      "right": 828,
+      "bottom": 1306
+    }
+  },
+  {
+    "id": 20,
+    "filename": "flower_20.png",
+    "row": 4,
+    "column": 5,
+    "width": 127,
+    "height": 292,
+    "source_crop": {
+      "left": 884,
+      "top": 1015,
+      "right": 1011,
+      "bottom": 1307
+    }
+  },
+  {
+    "id": 21,
+    "filename": "flower_21.png",
+    "row": 5,
+    "column": 1,
+    "width": 138,
+    "height": 298,
+    "source_crop": {
+      "left": 102,
+      "top": 1338,
+      "right": 240,
+      "bottom": 1636
+    }
+  },
+  {
+    "id": 22,
+    "filename": "flower_22.png",
+    "row": 5,
+    "column": 2,
+    "width": 119,
+    "height": 282,
+    "source_crop": {
+      "left": 275,
+      "top": 1362,
+      "right": 394,
+      "bottom": 1644
+    }
+  },
+  {
+    "id": 23,
+    "filename": "flower_23.png",
+    "row": 5,
+    "column": 3,
+    "width": 165,
+    "height": 258,
+    "source_crop": {
+      "left": 462,
+      "top": 1370,
+      "right": 627,
+      "bottom": 1628
+    }
+  },
+  {
+    "id": 24,
+    "filename": "flower_24.png",
+    "row": 5,
+    "column": 4,
+    "width": 227,
+    "height": 268,
+    "source_crop": {
+      "left": 636,
+      "top": 1347,
+      "right": 863,
+      "bottom": 1615
+    }
+  },
+  {
+    "id": 25,
+    "filename": "flower_25.png",
+    "row": 5,
+    "column": 5,
+    "width": 189,
+    "height": 268,
+    "source_crop": {
+      "left": 870,
+      "top": 1365,
+      "right": 1059,
+      "bottom": 1633
+    }
+  },
+  {
+    "id": 26,
+    "filename": "flower_26.png",
+    "row": 6,
+    "column": 1,
+    "width": 169,
+    "height": 293,
+    "source_crop": {
+      "left": 100,
+      "top": 1663,
+      "right": 269,
+      "bottom": 1956
+    }
+  },
+  {
+    "id": 27,
+    "filename": "flower_27.png",
+    "row": 6,
+    "column": 2,
+    "width": 189,
+    "height": 357,
+    "source_crop": {
+      "left": 263,
+      "top": 1644,
+      "right": 452,
+      "bottom": 2001
+    }
+  },
+  {
+    "id": 28,
+    "filename": "flower_28.png",
+    "row": 6,
+    "column": 3,
+    "width": 209,
+    "height": 301,
+    "source_crop": {
+      "left": 448,
+      "top": 1666,
+      "right": 657,
+      "bottom": 1967
+    }
+  },
+  {
+    "id": 29,
+    "filename": "flower_29.png",
+    "row": 6,
+    "column": 4,
+    "width": 166,
+    "height": 298,
+    "source_crop": {
+      "left": 646,
+      "top": 1677,
+      "right": 812,
+      "bottom": 1975
+    }
+  },
+  {
+    "id": 30,
+    "filename": "flower_30.png",
+    "row": 6,
+    "column": 5,
+    "width": 152,
+    "height": 288,
+    "source_crop": {
+      "left": 865,
+      "top": 1682,
+      "right": 1017,
+      "bottom": 1970
+    }
+  }
+]
